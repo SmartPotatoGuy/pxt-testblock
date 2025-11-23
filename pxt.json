@@ -1,12 +1,18 @@
 {
-    "name": "testblock",
+    "name": "numberformater",
     "version": "1.0.0",
-    "description": "Test block",
+    "description": "Format large numbers for MakeCode Arcade (k, m, b, t, q, Q, s, S)",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "main.ts"
     ],
-    "testFiles": []
+    "testFiles": [],
+    "public": true,
+    "targetVersions": {
+        "branch": "main",
+        "tag": "v1.0.0",
+        "target": "arcade"
+    }
 }
