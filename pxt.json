@@ -1,5 +1,5 @@
 {
-    "name": "numberformater",
+    "name": "testblock",
     "version": "1.0.0",
     "description": "Format large numbers for MakeCode Arcade (k, m, b, t, q, Q, s, S)",
     "dependencies": {
@@ -16,3 +16,4 @@
         "target": "arcade"
     }
 }
+
