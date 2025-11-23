@@ -1,5 +1,5 @@
 //% color=#00AAFF icon="\uf201"
-namespace numberformater {
+namespace testblock {
 
     /**
      * Format a number with suffixes (k, m, b, t, q, Q, s, S)
@@ -31,3 +31,4 @@ namespace numberformater {
         return sign + formatted
     }
 }
+
