@@ -1,0 +1,12 @@
+{
+    "name": "testblock",
+    "version": "1.0.0",
+    "description": "Test block",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": []
+}
